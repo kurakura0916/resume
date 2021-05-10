@@ -1,2 +1,4 @@
-# resume
-職務経歴書を掲載
+# 職務経歴書
+
+こちらのGitHub Pagesからご覧頂けます。
+https://kurakura0916.github.io/resume/
