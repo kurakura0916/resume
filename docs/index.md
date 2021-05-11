@@ -126,5 +126,5 @@ GCP/AWS
   - マーケティングオートメーションツールの導入および運用
 
 ## インタビュー記事
-- https://cloud.google.com/blog/ja/topics/customers/mixi-asl-ai
-- https://analytics.uhuru.co.jp/projects/mixi/
+- [https://cloud.google.com/blog/ja/topics/customers/mixi-asl-ai](https://cloud.google.com/blog/ja/topics/customers/mixi-asl-ai)
+- [https://analytics.uhuru.co.jp/projects/mixi/](https://analytics.uhuru.co.jp/projects/mixi/)
